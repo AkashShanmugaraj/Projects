@@ -1,13 +1,17 @@
-# Projects
-All of my Python Projects
+HOMEWORK - v1.0
+This is my Homework project
 
-I hope you are a person from my school seeking for a help or to learn something new
-I assure you will get best experience
-You can also contact me at 
+Contents in this package:
+hw.py - It is the main file which can be used to record a day's homework
 
-akashthelezend@gmail.com
+Accessibility:
+It is reccomended to use thins file in a seperate folder, in any place of your computer
+because the hw.py file creates a new text per day, thus you will need a seperate folder for better organizing
 
-PH - +91 9943803882 (IN)
+Features:
+The version 1.0 is the first model of Homework Application.
+This asks an input of the available homeworks from different subjects,
+and creates and opens a file in that date and records the homework information
 
-Also you can view my website for full fledged experience
-www.akashshanmugaraj.wixsite.com/home
+v2.0 Update:
+The v2.0 will cover a major part of Disadvatages of v1.0 like to prevent overwriting when the application is run twice.
