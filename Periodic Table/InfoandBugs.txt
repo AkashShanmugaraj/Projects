@@ -1,0 +1,24 @@
+Atomic Chemistry is the final and sucessful output of the project.
+Test run :
+
+Akash Shanmugaraj@Lezend MINGW64 /c/Akash Shanmugaraj/Python/Projects/Advanced Calculator/Periodic Table
+$ "C:/Users/Akash Shanmugaraj.LEZEND/AppData/Local/Programs/Python/Python38/python.exe" "c:/Akash Shanmugaraj/Python/Projects/Advanced Calculator/Periodic Table/Atomic Chemistry.py"
+Welcome to Periodic Table Calculator
+You can find the name of element, periodic number, group number, electronic configuration and valency of a given Atomic number
+Enter Atomic Number: 65
+Element Name and symbol: Terbium  Tb
+Electronic Configuration configuration: [Xe]4f9 6s2
+Atomic Mass of given element is 158.92535(2)
+It has about 65 protons and electrons
+It comes under F-Block
+It comes under Lanthanoids
+The valency of the given element is 5
+The Group Number and Period Number of given element cannot be calculated as it belongs to Lanthanoids
+Press any letter followed by ENTER to exit the program else just press ENTER
+
+ecexp.py is the file in which i tried to explain the program Atomic Chemistry
+
+Summr.py is a file in which the data used for Atomic Chemistry is Summrised
+
+The older Subcategories has files which only do a part of the Atomic Chemistry.py
+Those were the files used during deveopment
