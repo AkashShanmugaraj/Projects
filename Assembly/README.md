@@ -1,6 +1,6 @@
-Hello Poojitha!
+Hello Class Representative!
 
-I made this program yesterday which tells us the next people for assembly duty.
+I made this program which tells us the next people for assembly duty.
 
 It asks input of the roll number of the student who said prayer today and prints the next set of names.
 
